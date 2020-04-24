@@ -18,6 +18,7 @@ var config = {
         "Fortuna dies natalis！",
         "Grattis pa fodelsedagen！",
         "Happy birthday！",
+        "没有啦！,
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -30,9 +31,9 @@ var config = {
      */
     imgs: {
         "hi！李依婷小盆友": "./imgs/16.jpg",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "祝你": "./imgs/15.jpg",
-        "岁岁年年 万喜万般宜": "./imgs/1.jpg",
         "祝你": "./imgs/2.jpg",
+        "岁岁年年 万喜万般宜": "./imgs/1.jpg",
+        "祝你": "./imgs/17.jpg",
         "sing shen fai lo (生辰快乐）！": "./imgs/3.jpg",
         "생일 축하합니다！": "./imgs/4.jpg",
         "お诞生日おめでとうございます！": "./imgs/5.jpg",
