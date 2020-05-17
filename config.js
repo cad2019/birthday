@@ -34,14 +34,14 @@ var config = {
         "sing shen fai lo (生辰快乐）！": "./imgs/9.jpg",
         "생일 축하합니다！": "./imgs/4.jpg",
         "お诞生日おめでとうございます！": "./imgs/5.jpg",
-        "С днем рождения！": "./imgs/6.jpg",
+        "С днем рождения！": "./imgs/26.jpg",
         "iFeliz cumpleaños！": "./imgs/8.jpg",
         "Buon Compleanno！": "./imgs/9.jpg",
         "Hongera！": "./imgs/10.jpg",
         "Fortuna dies natalis！": "./imgs/11.jpg",
         "Grattis pa fodelsedagen！": "./imgs/12.jpg",
         "Happy birthday！": "./imgs/13.jpg",
-        "没有啦！": "./imgs/17.jpg",
+        "没有啦！": "./imgs/15.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
