@@ -41,7 +41,7 @@ var config = {
         "Fortuna dies natalis！": "./imgs/11.jpg",
         "Grattis pa fodelsedagen！": "./imgs/12.jpg",
         "Happy birthday！": "./imgs/13.jpg",
-        "没有啦！": "./imgs/14.jpg",
+        "没有啦！": "./imgs/17.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
