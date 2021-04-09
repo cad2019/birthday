@@ -31,7 +31,7 @@ var config = {
         "hi！亲爱的苗苗小盆友": "./imgs/16.jpg",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "祝你": "./imgs/2.jpg",
         "岁岁年年 万喜万般宜": "./imgs/1.jpg",
-        "sing shen fai lo (生辰快乐）！": "./imgs/9.jpg",
+        "sing shen fai lo (生辰快乐）！": "./imgs/27.jpg",
         "생일 축하합니다！": "./imgs/4.jpg",
         "お诞生日おめでとうございます！": "./imgs/5.jpg",
         "С днем рождения！": "./imgs/26.jpg",
