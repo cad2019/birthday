@@ -3,7 +3,7 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "hi！郑芷阁小盆友",
+        "hi！苗苗小盆友",
         "祝你",
         "岁岁年年 万喜万般宜",
         "sing shen fai lo (生辰快乐）！",
@@ -16,7 +16,7 @@ var config = {
         "Fortuna dies natalis！",
         "Grattis pa fodelsedagen！",
         "Happy birthday！",
-        "没有啦！",
+        "嘻嘻！",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -28,7 +28,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "hi！郑芷阁小盆友": "./imgs/16.jpg",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "hi！亲爱的苗苗小盆友": "./imgs/16.jpg",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "祝你": "./imgs/2.jpg",
         "岁岁年年 万喜万般宜": "./imgs/1.jpg",
         "sing shen fai lo (生辰快乐）！": "./imgs/9.jpg",
@@ -41,7 +41,7 @@ var config = {
         "Fortuna dies natalis！": "./imgs/11.jpg",
         "Grattis pa fodelsedagen！": "./imgs/12.jpg",
         "Happy birthday！": "./imgs/13.jpg",
-        "没有啦！": "./imgs/15.jpg",
+        "嘻嘻！": "./imgs/15.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
