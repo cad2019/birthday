@@ -16,7 +16,7 @@ var config = {
         "Fortuna dies natalis！",
         "Grattis pa fodelsedagen！",
         "Happy birthday！",
-        "礼物是什么呢？",
+        "嘻嘻",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -41,7 +41,7 @@ var config = {
         "Fortuna dies natalis！": "./imgs/11.jpg",
         "Grattis pa fodelsedagen！": "./imgs/12.jpg",
         "Happy birthday！": "./imgs/13.jpg",
-        "礼物是什么呢？": "./imgs/15.jpg",
+        "嘻嘻": "./imgs/15.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
